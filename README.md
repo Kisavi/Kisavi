@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## An aspiring Fullstack developer font of their code because it's their TYPE.
+## A Fullstack developer font of their code because it's their TYPE.
 
 ### Languages and Frameworks:
 
