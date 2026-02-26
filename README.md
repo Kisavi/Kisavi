@@ -51,5 +51,4 @@ Here are some ideas to get you started:
 <div> 
  <a href="mailto:denis.kagunda@student.moringaschool.com" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> &nbsp;
  <a href="https://www.linkedin.com/in/denis-kagunda/" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
- <a href="https://twitter.com/CurveIt19" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/@CurveIt19-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a> &nbsp;
 </div>
